@@ -1,0 +1,14 @@
+[
+  {
+    "userIdForPostTest": "1",
+    "getPost": "/posts",
+    "getPosts": "/posts/99",
+    "UserId": "10",
+    "Id": "99",
+    "errorGet": "/posts/150",
+    "getUsers": "/users",
+    "getUser": "/users/5",
+    "expectedIdForGetUser": "5"
+  }
+
+]
